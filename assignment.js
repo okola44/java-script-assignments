@@ -1,7 +1,19 @@
+function fruits (){
+var fruits =["mangoes","apples","bananas","watermelon","pears"];
+fruits.forEach((fruits) => {
+    console.log(fruits)
+    
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
- fruits=["mangoes","pairs","grapes","melon"]
-for(let x=0;x<fruits.length;x++){
-    console.log(fruits[x]);
-}
+});
+console.log(fruits[2])
+console.log(fruits[0])
+  }
+  
+fruits()
 
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
